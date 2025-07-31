@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrés Gamboa</h1>
 <h3 align="center">💻 Full Stack Developer | E-commerce & API Integration Specialist | Agile Team Leader</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andresfdgt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:andresfdgt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/andresfdgt" target="_blank">
-    <img src="https://img.shields.io/github/followers/andresfdgt?label=Followers&style=social" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
