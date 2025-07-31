@@ -95,7 +95,6 @@
   <img width="12" />
 </div>
 
-
 ---
 
 ### 📈 GitHub Stats
@@ -107,6 +106,14 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=andresfdgt&theme=tokyonight&card_width=470" />
 </div>
+
+---
+
+### 📌 Current Projects
+
+- 🌎 **GlobalSeller Platform**  
+  E-commerce automation system that streamlines dropshipping from Amazon to Latin American marketplaces (Mercado Libre, Linio, Falabella).
+  Built with Laravel, Vue.js and Python microservices, the platform automates product listing, real-time inventory syncing, and automated pricing calculations based on product cost, shipping, and     marketplace fees. It also features AI-powered content generation using models like ChatGPT and Gemini.
 
 ---
 
