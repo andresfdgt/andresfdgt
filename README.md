@@ -115,8 +115,17 @@
   E-commerce automation system that streamlines dropshipping from Amazon to Latin American marketplaces (Mercado Libre, Linio, Falabella).
   Built with Laravel, Vue.js and Python microservices, the platform automates product listing, real-time inventory syncing, and automated pricing calculations based on product cost, shipping, and     marketplace fees. It also features AI-powered content generation using models like ChatGPT and Gemini.
 
+- 🤖 **AI-Powered Product Content Engine**  
+  Integrated into GlobalSeller. Uses OpenAI (ChatGPT), Gemini and Claude APIs to generate optimized titles, descriptions and attributes in multiple languages, tailored for marketplace SEO and automation.
+
+- 🛍️ **WooCommerce Store Development**  
+  Freelance development of online stores for SMEs using WooCommerce, integrated with Meta Commerce (Facebook & Instagram), payment gateways and catalog automation.
+
 - 📈 **SEO Optimization for Golfitos PetShop**  
-  SEO and performance enhancement project for a niche pet e-commerce store. Focused on improving Google indexing, product visibility, and structured data implementation (schema markup) to boost organic traffic and conversions.
+  SEO and performance enhancement project for a niche pet e-commerce store. Focused on improving indexing, structured data, and organic visibility.
+
+- 🔧 **ERP & Custom System Development (Freelance)**  
+  Development of tailored ERP systems and custom business platforms for clients like Cámara de Comercio de Aguachica, enhancing internal workflows, reporting and digital presence.
 
 ---
 
