@@ -115,7 +115,7 @@
   E-commerce automation system that streamlines dropshipping from Amazon to Latin American marketplaces (Mercado Libre, Linio, Falabella).
   Built with Laravel, Vue.js and Python microservices, the platform automates product listing, real-time inventory syncing, and automated pricing calculations based on product cost, shipping, and     marketplace fees. It also features AI-powered content generation using models like ChatGPT and Gemini.
 
-  - 📈 **SEO Optimization for Golfitos PetShop**  
+- 📈 **SEO Optimization for Golfitos PetShop**  
   SEO and performance enhancement project for a niche pet e-commerce store. Focused on improving Google indexing, product visibility, and structured data implementation (schema markup) to boost organic traffic and conversions.
 
 ---
