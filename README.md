@@ -102,7 +102,9 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=andresfdgt&theme=aura&column=4&row=1&margin-w=10" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=andresfdgt&show_icons=true&theme=tokyonight&count_private=true" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=andresfdgt&theme=tokyonight&card_width=470" />
 </div>
 
