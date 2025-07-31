@@ -101,9 +101,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andresfdgt&show_icons=true&theme=default&hide=issues&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andresfdgt&show_icons=true&theme=dark&hide=issues&count_private=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresfdgt&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresfdgt&theme=dark" />
 </p>
 
 ---
