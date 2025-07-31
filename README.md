@@ -120,3 +120,24 @@
 <p align="center">
 ⚡ Focused on scalable solutions, clean architecture and real business impact.
 </p>
+
+---
+
+### 🤝 Let's Work Together
+
+If you're looking for a developer who can build scalable e-commerce solutions, automate workflows, or integrate AI to boost your product pipelines —  
+I’m open to new freelance opportunities, collaborations, and remote projects.
+
+Feel free to reach out and let’s build something impactful together 🚀
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andresfdgt" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:andresfdgt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/andresfdgt" target="_blank">
+    <img src="https://img.shields.io/github/followers/andresfdgt?label=Followers&style=social" />
+  </a>
+</p>
