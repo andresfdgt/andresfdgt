@@ -7,7 +7,7 @@
 
 - 👨‍💻 Development Coordinator at [MyDataSinc](https://mydatasinc.com)
 - 🛒 Specialized in building e-commerce solutions and integrations
-- 🤖 Implementing AI tools such as ChatGPT to automate product content generation
+- 🤖 Implementing AI tools such as ChatGPT, Gemini, Claude, etc
 - ⚙️ Passionate about scalable architecture, backend automation and clean development workflows
 - 🌍 Based in Colombia, open to global remote opportunities and freelance collaboration
 
