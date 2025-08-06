@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-- 👨‍💻 Development Coordinator at [MyDataSinc](https://mydatasinc.com)
+- 👨‍💻 Development Coordinator at [MyDataSinc](https://www.mydatasinc.com)
 - 🛒 Specialized in building e-commerce solutions and integrations
 - 🤖 Implementing AI tools such as ChatGPT, Gemini, Claude, etc
 - ⚙️ Passionate about scalable architecture, backend automation and clean development workflows
